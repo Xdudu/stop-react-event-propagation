@@ -1,0 +1,13 @@
+{
+  "name": "stop-react-event-propagation",
+  "version": "1.0.0",
+  "description": "Stop immediate and further propagation for React components.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xdudu/stop-react-event-propagation.git"
+  },
+  "author": "Xdudu",
+  "license": "MIT",
+  "homepage": "https://github.com/Xdudu/stop-react-event-propagation#readme"
+}
