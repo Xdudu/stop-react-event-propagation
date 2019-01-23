@@ -1,4 +1,4 @@
-#### This package offers util function to stop immediate and further propagation for React components to keep an event 'private'. Often useful if event handlers are registered on `document` object diffusedly through an app.
+#### This package offers util function to stop immediate and further propagation for React components to keep an event 'private'. Often useful if event handlers are registered on `document` object diffusedly through an app. [Demo](https://codepen.io/xiaodudu/pen/KGwrzY)
 
 ---------
 
